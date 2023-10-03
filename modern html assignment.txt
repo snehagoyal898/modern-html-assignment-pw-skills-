@@ -45,11 +45,4 @@ benefits for user groups:
 content understandable.
 3.Keyboard navigation and easy-to-click elements assist users with motor limitations
 
-Task 4. List 3 ways which help us improving the accessibility of html.
 
-solution: 1)Using Semantic tags:
-Semantic HTML means using correct HTML elements for their correct purpose as much as possible. Semantic elements are elements with a meaning like <header>,<footer>,<nav>,<button> etc.
-2)Headings:
-Adding suitable and meaningful headings.
-3)Adding alt attribute:
-the alt attribute provides an alternate text for an image, if the user for some reason cannot view it.
