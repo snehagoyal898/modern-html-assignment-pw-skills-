@@ -1,0 +1,55 @@
+Modern html assignment:-
+
+Task 1:List out the features of HTML5.
+
+Solution:HTML 5 is the next revision of html after html 4.01.HTML is responsible for presenting and structuring content in a webpage.
+here are some features  of html5:-
+1. New Semantic Elements − These are like <header>, <footer>, and <section>.
+
+2.Forms 2.0 − Improvements to HTML web forms where new attributes have been introduced for <input> tag.
+
+3.Persistent Local Storage − To achieve without resorting to third-party plugins.
+
+4.Server-Sent Events − HTML5 introduces events which flow from web server to the web browsers and they are called Server-Sent Events (SSE).
+
+5.Canvas − This supports a two-dimensional drawing surface that you can program with JavaScript.
+
+6.Audio & Video − You can embed audio or video on your webpages without resorting to third-party plugins.
+
+7.Microdata − This lets you create your own vocabularies beyond HTML5 and extend your web pages with custom semantics.
+
+8.Drag and drop − Drag and drop the items from one location to another location on the same webpage.
+
+Task2.What are HTML Entities? List out 5 commonly used HTML entities.
+
+solution:An HTML entity is used to display invisible characters and reserved characters that would otherwise be interpreted as HTML code.
+Commonly used html entities are:-
+1. for less than symbol(<) we have-  &lt;
+2.for greater than symbol (>) we have- &gt;
+3.for exclamation mark (!) we have -&#33;
+4. for hash symbol (#) we have-	&#35;	
+5.for ampersand symbol (&) we have-&amp or &#38;
+
+Task3.Define accessibility in the context of web development? Discuss why it's essential to create accessible websites and how it benefits different user group.
+
+solution:. Web accessibility means that people with disabilities can  perceive, understand, navigate, and interact with websites and tools easily . It also means that they have equal access to all digital information regardless of their disability.By creating accessible websites screen readers can easily read the content for those who have some problem in reading or anything.
+Importance of creating accessible websites:
+1.Accessibility supports social inclusion for people with disabilities as well as others, such as:
+older people and people in rural areas.
+2.Web accessibility is required by law in many situations so it is important to avoid any legal issues.
+3.Accessibility ensures that everyone have access to the digital content and information.
+
+benefits for user groups:
+1. creates more independence and better social integration. 
+2. Captions and transcripts benefit those with hearing impairments by making audio 
+content understandable.
+3.Keyboard navigation and easy-to-click elements assist users with motor limitations
+
+Task 4. List 3 ways which help us improving the accessibility of html.
+
+solution: 1)Using Semantic tags:
+Semantic HTML means using correct HTML elements for their correct purpose as much as possible. Semantic elements are elements with a meaning like <header>,<footer>,<nav>,<button> etc.
+2)Headings:
+Adding suitable and meaningful headings.
+3)Adding alt attribute:
+the alt attribute provides an alternate text for an image, if the user for some reason cannot view it.
